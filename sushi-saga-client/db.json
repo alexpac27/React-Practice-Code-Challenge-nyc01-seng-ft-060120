@@ -2,10 +2,10 @@
   "sushis": [
     {
       "id": 1,
-      "name": "Maguro Magic",
-      "img_url": "./sushi/maguro.png",
-      "price": 20,
-      "created_at": "2018-07-27T18:53:16.241Z"
+      "name": "Oh Sake",
+      "img_url": "./sushi/sake.png",
+      "price": 10,
+      "created_at": "2018-07-27T18:53:16.312Z"
     },
     {
       "id": 2,
